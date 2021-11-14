@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phoom</h1>
-<h3 align="center">A Trainee developer developer from Thailand</h3>
+<h3 align="center">A Trainee developer from Thailand</h3>
 
 - 📫 How to reach me **Phoombnw@gmail.com**
 

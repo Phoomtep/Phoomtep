@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Phoom</h1>
-<h3 align="center">A Trainee developer developer from Thailand</h3>
 
 - 🌱 I’m currently learning **Computer Science - Cybersecurity and Data Science**
 
